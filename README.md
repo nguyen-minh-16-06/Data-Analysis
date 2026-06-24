@@ -55,9 +55,8 @@ DA4_Project/
 └── 05_Demo_Video/
     ├── Demo Consumer Finance platform.mp4
     └── Video demo.mp4
-
-LƯU Ý: Có một số folder vì dung lượng khá lớn nên không thể upload lên Repo này, tham khảo qua đường link sau: https://drive.google.com/drive/folders/19E9kLLxbRfBFrhC9NwSox5LbU4gTvsGn?usp=sharing
 ```
+LƯU Ý: Có một số folder vì dung lượng khá lớn nên không thể upload lên Repo này, tham khảo qua đường link sau: https://drive.google.com/drive/folders/19E9kLLxbRfBFrhC9NwSox5LbU4gTvsGn?usp=sharing
 
 ## Cài đặt và thiết lập
 
