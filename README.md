@@ -4,7 +4,7 @@ Dự án này là một nền tảng phân tích hành vi tài chính tiêu dùn
 
 ## Cấu trúc thư mục dự án
 ```text
-DA4_Project/
+Data-Analysis/
 ├── 01_Source_Code/
 │   ├── Dash-Dashboard/
 │   │   ├── app.py
@@ -71,10 +71,10 @@ Clone project và cài đặt các thư viện cần thiết:
 
 ```bash
 # Clone kho lưu trữ về máy tính của bạn
-git clone https://github.com/nguyen-minh-16-06/Data-analysis.git
+git clone https://github.com/nguyen-minh-16-06/Data-Analysis.git
 
 # Điều hướng đến thư mục của dự án
-cd Data-analysis
+cd Data-Analysis
 
 # Tạo và kích hoạt môi trường ảo
 python -m venv venv
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 Trước khi chạy ứng dụng dash, có thể xem quá trình tiền xử lý dữ liệu, huấn luyện mô hình và các chỉ số đánh giá bằng cách mở Jupyter Lab.
 
-Mở terminal tại thư mục DA4_Project và chạy lệnh:
+Mở terminal tại thư mục Data-Analysis và chạy lệnh:
 ```bash
 jupyter lab
 ```
