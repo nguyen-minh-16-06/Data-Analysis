@@ -5,7 +5,10 @@ Dự án này là một nền tảng phân tích hành vi tài chính tiêu dùn
 ## Cấu trúc thư mục dự án
 ```text
 Data-Analysis/
-├── 01_Source_Code/
+├── 01_Report/
+│   ├── Đồ án PTDLL - Nhóm 4 - KHDL&TTNT K4.docx/
+│   ├── Đồ án PTDLL - Nhóm 4 - KHDL&TTNT K4.pdf/
+├── 02_Source_Code/
 │   ├── Dash-Dashboard/
 │   │   ├── app.py
 │   │   ├── finalized_model.sav
@@ -19,7 +22,7 @@ Data-Analysis/
 │       ├── finalized_model.sav
 │       ├── notebook_investor_clustering.ipynb
 │       └── notebook_risk_tolerance.ipynb
-├── 02_Dataset/
+├── 03_Dataset/
 │   ├── Lending-Club/
 │   │   └── loan_dataset.csv
 │   ├── Credit-Card-Fraud/
@@ -29,7 +32,7 @@ Data-Analysis/
 │       ├── ProcessedData.xlsx
 │       ├── SCFP2009panel.xlsx
 │       └── SP500Data.csv
-├── 03_Figures/
+├── 04_Figures/
 │   ├── Dashboard/
 │   │   ├── Compare Models.png
 │   │   ├── Correlation Matrix.png
@@ -50,9 +53,9 @@ Data-Analysis/
 │       ├── Demographics Analysis.png
 │       ├── Financial and Risk Profile Analysis.png
 │       └── Heatmap.png
-├── 04_Slides/
+├── 05_Slides/
 │   └── Slide N4.pptx
-└── 05_Demo_Video/
+└── 06_Demo_Video/
     ├── Demo Consumer Finance platform.mp4
     └── Video demo.mp4
 ```
